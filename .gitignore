@@ -1,0 +1,8 @@
+﻿# Only track Python source; everything else (data, weights, tokens, reports) is ignored
+*
+!*/
+!*.py
+__pycache__/
+!.gitignore
+disertation/code/output/
+!README.md
